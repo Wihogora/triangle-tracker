@@ -1,3 +1,12 @@
-.triangles{
+body{
     background-color: bisque;
+}
+#equilateral  li{
+    color:#008000;
+}
+#Isosceles li {
+    color:#008000;
+}
+#Scalene li{
+    color:#008000;
 }
