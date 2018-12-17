@@ -1,12 +1,17 @@
 body{
     background-color: bisque;
 }
-#equilateral  li{
+#equilateral1  li{
     color:#008000;
 }
-#Isosceles li {
+#Isosceles1 li {
     color:#008000;
 }
-#Scalene li{
+#Scalene1 li{
     color:#008000;
+}
+#equilateral{
+    border-bottom: 100px;
+    border-right: 100px;
+    border-left: 100px;
 }
