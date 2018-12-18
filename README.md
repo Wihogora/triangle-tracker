@@ -13,6 +13,5 @@ When you enter three unequal sides it gives an alert saying it's a Scalene trian
 * Javascript
 ## Support and contact details
 If u have any question u can contact me on:
-
 * Tel:+250788716357
 * Email:wwihogora@gmail.com
