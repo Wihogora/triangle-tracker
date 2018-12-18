@@ -4,12 +4,17 @@ function getResult(){
     var side3=parseFloat(document.getElementById("side3").value);
     if(side1===side2 && side2===side3){
         alert("This is an Equilateral triangle");
-        window.location.href="equilateral.html";
+        window.location.href="equilateral.html";    
     }
     else if(side1===side2 || side1===side3 || side2===side3){
         alert("This is an Isosceles triangles");
+        window.location.href="isosceles.html";
     }
     else if((side1+side2)<=side3 || side1+side3<=side2 || side2+side3<=side1){
         alert("This is not a definite triangle");
+    }
+    else{
+        alert("scalene");
+        window.location.href="scalene.html";
     }
 }
